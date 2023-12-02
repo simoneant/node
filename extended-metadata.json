@@ -1,0 +1,21 @@
+{
+    "verification":"61d436e01bdfb86574",
+    "info": {
+        "location": "Italy",
+        "social": {
+            "twitter_handle": "https://twitter.com/ProximaPRX",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "",
+            "patreon_handle": "",
+            "linkedin_handle": "",
+            "ada_handle": ""
+        },
+        "about": {
+            "server": "Bare metal server, powered with solar energy"
+        }
+    }
+}
